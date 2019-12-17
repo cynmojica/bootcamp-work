@@ -1,0 +1,60 @@
+body {
+  background-color: #333333;
+  color: aliceblue;
+  line-height: 150%;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #333333;
+  text-align: center;
+  padding: 0em;
+}
+h1 {
+  color: aliceblue;
+  font-style: normal;
+  text-align: center;
+}
+
+h2 {
+  color: aliceblue;
+  font-size: 28px;
+  font-style: italic;
+  text-align: left;
+}
+
+p {
+  color: aliceblue;
+  font-size: 28px;
+  font-style: italic;
+  text-align: left;
+}
+h3 {
+  color: aliceblue;
+  font-size: 28px;
+  font-style: italic;
+  text-align: left;
+}
+li {
+  font-size: 24px;
+  font-style: italic;
+  text-align: left;
+}
+
+.almond {
+  color: white;
+  text-align: left;
+}
+
+.butterfinger {
+  color: orange;
+  text-align: left;
+}
+
+.ferrero {
+  color: gold;
+}
+
+.all {
+  color: blue;
+}
